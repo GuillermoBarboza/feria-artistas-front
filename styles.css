@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('https://carlitosbucket.s3-sa-east-1.amazonaws.com/tero-rinonera.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
